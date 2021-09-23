@@ -2,6 +2,9 @@ body{
    
     background-color: rgb(240, 231, 152);
 }
+.input-number{
+    width: 125px;
+}
 .button {
     background-color: #57bb96;
     border: none;
@@ -122,7 +125,7 @@ body{
     right: 10px;
 
 }
-.table-head{
+.card-head{
     margin: 50px;
     border:5px solid rgb(216, 71, 23);
     width: 816px;
@@ -134,7 +137,7 @@ body{
     color:r0b(6, 61, 63);
     text-align: center;
 }
-.table1{
+.card1{
     line-height: 1.6;
     font-style: italic;
     width: 400px;
@@ -147,7 +150,7 @@ body{
  
 
 }
-.table2{
+.card2{
     line-height: 1.6;
     font-style: italic;
     width: 400px;
@@ -160,7 +163,7 @@ body{
  
 
 }
-.table3{
+.card3{
    
     font-style: italic;
     height: 235px;
